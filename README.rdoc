@@ -1,0 +1,5 @@
+== README
+
+This is a barebones Rails application with Postgres/RSpec/Simple Form/Devise.
+
+Just fork it, run bundle install and then rake db:migrate and you should be up and running.
